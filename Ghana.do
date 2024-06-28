@@ -3,7 +3,7 @@ clear
 clear matrix
 clear mata
 set maxvar 32000, permanently
-use "/Volumes/BOA/My ALL files/FOR PUBLICATION/Debut_Sierra Leone/GHIR8AFL.DTA"
+use "/Volumes/BOA/DHS SSA/GH_2022_DHS_01182024_2015_129249/GHIR8ADT/GHIR8AFL.DTA"
 
 *****************MULTILEVEL MODELLING USING DHS SURVEYS*********
 *This is adapted from the Zimbabwe code at the end of the DHS METHODOLOGICAL REPORTS 27**
